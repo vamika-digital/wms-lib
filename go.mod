@@ -1,4 +1,4 @@
-module github.com/vamika-digital/wms-auth
+module github.com/vamika-digital/wms-lib
 
 go 1.20
 
